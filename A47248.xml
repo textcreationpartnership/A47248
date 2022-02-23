@@ -1,0 +1,263 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Amplissimis, dignissimis, &amp; consultissimis viris D. Ioanni Hall de Dunglass, equiti aurato baronetto, inclytæ civitatis Edinburgi consuli magnifico: ... D.D.C.Q. Herbertus Kennedy præses, &amp; candidati. ...</title>
+            <author>Kennedy, Herbert, fl. 1686-1690.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47248</idno>
+            <idno type="STC">Wing K291</idno>
+            <idno type="STC">ESTC R220022</idno>
+            <idno type="EEBO-CITATION">99831460</idno>
+            <idno type="PROQUEST">99831460</idno>
+            <idno type="VID">35923</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47248)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35923)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2050:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Amplissimis, dignissimis, &amp; consultissimis viris D. Ioanni Hall de Dunglass, equiti aurato baronetto, inclytæ civitatis Edinburgi consuli magnifico: ... D.D.C.Q. Herbertus Kennedy præses, &amp; candidati. ...</title>
+                  <author>Kennedy, Herbert, fl. 1686-1690.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>excudebat hæres Andrea Anderson, regum urbis, &amp; Academiæ Typographus,</publisher>
+                  <pubPlace>Edinburghi :</pubPlace>
+                  <date>anno Dom. 1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Degree candidates listed below title.</note>
+                  <note>Theses listed in two columns.</note>
+                  <note>Reproduction of the original in the Edinburgh University LIbrary, Edinburgh.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Universities and colleges --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="lat">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:35923:1" rendition="simple:additions"/>
+            <head>AMPLISSIMIS, DIGNISSIMIS, &amp; CONS<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ISSIMIS VIRIS. D. IOANNI HALL de DUNGLASS, EQUITI AURATO BARONETTO, INCLYTAE CIVITATIS <hi>EDINB<g ref="char:V">Ʋ</g>RGI</hi> CONSULI MAGNIFICO: DD. ARCHIBALDO MUIR, THOMAE WYLLIE, GEORGIO CLERK, GEORGIO HUME Praetoribus Aequiſſimis: JACOBO M<hi rend="sup">c</hi>LURG Aedili Vigilantiſſimo: GULIELMO MENZIES &amp; M. HENRICO FERGUSSON illi Urbis, huic Academiae Quaeſtoribus Fideliſſimis; Caeteriſque Urbis <hi>Edinb,</hi> Senatoribus Prudentiſſimis, Academiae <hi>JACOBI REGIS</hi> Patronis Benigniſſimis: Theſes haſce Philoſophicas A.P.D.O.M. Prid. Cal. <hi>Quintil.</hi> in Auditorio Publico inferiori, ex Mandato Senatûs Academici Propugnandas, <hi>D.D.C.Q.</hi> HERBERTUS KENNEDY Praeſes, &amp;</head>
+            <div type="list_of_candiates">
+               <list>
+                  <head>CANDIDATI.</head>
+                  <item>Adamus Welt.</item>
+                  <item>Alexander M<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>kenzie.</item>
+                  <item>Alexander Rule.</item>
+                  <item>Archibaldus Deans.</item>
+                  <item>Carolus Delyell.</item>
+                  <item>David Barclay.</item>
+                  <item>David Dundaſs.</item>
+                  <item>Georgius Dundaſs.</item>
+                  <item>Georgius Stirling.</item>
+                  <item>Georgius Young.</item>
+                  <item>Gulicimus Adam.</item>
+                  <item>Gulicimus Bigger.</item>
+                  <item>Gulielmus Colt.</item>
+                  <item>
+                     <hi>Gulielmus Couper.</hi>
+                  </item>
+                  <item>Gulielmus Hollyday.</item>
+                  <item>Gulielmus Millar.</item>
+                  <item>Gulielmus Smith.</item>
+                  <item>Henricus Anderſon.</item>
+                  <item>Henricus Burn.</item>
+                  <item>Henricus Wardlaw.</item>
+                  <item>Jacobus Bruce.</item>
+                  <item>Jacobus Cramond.</item>
+                  <item>Jacobus Dundaſs.</item>
+                  <item>Jacobus Grahame.</item>
+                  <item>Jacobus Guthrie.</item>
+                  <item>Jacobus Kinninmonth.</item>
+                  <item>Jacobus Monteith.</item>
+                  <item>Jacobus Murray.</item>
+                  <item>Jacobus Ramſay.</item>
+                  <item>Jacobus Smith.</item>
+                  <item>Jacobus Wardlaw.</item>
+                  <item>Joannes Dalrymple.</item>
+                  <item>Joannes Denniſton.</item>
+                  <item>
+                     <hi>IOANNES FALCONAR.</hi>
+                  </item>
+                  <item>Joannes Hamilton.</item>
+                  <item>Joannes Hannay.</item>
+                  <item>Joannes Henderſon.</item>
+                  <item>Joannes Milling.</item>
+                  <item>Joannes Miln.</item>
+                  <item>Joannes Nisbet.</item>
+                  <item>Joannes Toland.</item>
+                  <item>Joannes Wilſon</item>
+                  <item>Joannes Wilſon <hi>alter.</hi>
+                  </item>
+                  <item>Joannes zeaman.</item>
+                  <item>Joſephus M<hi rend="sup">c</hi>
+                     <gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ie.</item>
+                  <item>Laurentius Iinox.</item>
+                  <item>Laurentius Ollphant.</item>
+                  <item>
+                     <hi>Laurentius Wright.</hi>
+                  </item>
+                  <item>Patricius Richardſon.</item>
+                  <item>Patricius Rocheld.</item>
+                  <item>Patricius Sibbald.</item>
+                  <item>Petrus White.</item>
+                  <item>Robertus Horſeburgh.</item>
+                  <item>Robertus Johnſton.</item>
+                  <item>Robertus Johnſton <hi>alter</hi>
+                  </item>
+                  <item>Robertus Stuart.</item>
+                  <item>Samuel Charteris.</item>
+                  <item>Thomas Kennedy.</item>
+                  <item>Thomas Ogle.</item>
+                  <item>Walterus Riddel.</item>
+               </list>
+               <p>
+                  <hi>Aut nobis cum stultis vivendum, aut abeundum in ſolitudinem: immo noſmetipſi nobis deſerendi ſumus ſi stultitiam contubernalem nolumus, Volus: de Tranq. animi.</hi>
+               </p>
+            </div>
+            <div type="commentary">
+               <p>
+                  <seg rend="decorInit">M</seg>Ethodo debitâ Philoſophantem firmi quiddam &amp; inconcuſſi, fundamenti inſtar, ab ipſo principio ſtatuere decet, cui poſſit veritatum illos acervos imponere, qui foe<g ref="char:EOLhyphen"/>licius homines ad Coelos evehant, quàm Montes montibus impoſiti Gigantas olim extuliſſe perhibentur: Illud autem quod hic pro fundamento eſt ſtatuendum, non ſolum veriſſimum eſſe debet, nempe id cui aliae veritates imponi poſſint, ſed &amp; ejus eſſe natu<g ref="char:EOLhyphen"/>rae, ut ex eo facile &amp; promptè quamplurimae ſummi momenti veritates eliciantur.</p>
+               <p n="2">
+                  <hi>II.</hi> Nos itaque Philoſophiae noſtrae ſpecimen edituri pro primo principio &amp; ſcientia<g ref="char:EOLhyphen"/>rum fundamento hoc promulgamus effatum, <hi>Illud omne exiſtit à quo dependet aliud quid<g ref="char:EOLhyphen"/>dam quod exiſtit:</hi> Id vero à quo aliud dependet, eſt id ipſum ſine quo exiſtente aliud exiſtere non poteſt: Conceſſo enim quod id omne eſt à quo dependet aliud quod eſt, facile ſequitur <hi>eum qui cogitat eſſe aliquem ſeu exiſtere:</hi> Et hujus ſequelae ratio non eſt alia, quam quod ea ſit Cogitationis natura, ut dependeat ab eo qui ſupponitur cogitare <hi>h. e.</hi> ut nullo cogitante, nulla ſit neque poſſit eſſe <hi>Cogitatio.</hi>
+               </p>
+               <p n="3">
+                  <hi>III.</hi> Quoniam verò illud exiſtit, à quo aliud exiſtens dependet, exſtat igitur id à quo ego dependeo ſi modo ab aliquo dependeo, ego enim aliquis ſum &amp; exiſto: Illud autem à quo ego dependeo, ſiquidem ab aliquo dependere me deprehendam, <hi>Dei</hi> nomine in<g ref="char:EOLhyphen"/>ſigniatur: quare nihil aliud requiritur ut inveniatur <hi>Dei</hi> exiſtentia, quam ut agnoſ<g ref="char:EOLhyphen"/>cam me dependere ab aliquo.</p>
+               <p n="4">IV. Quod ut manifeſtum evadat ad meipſum contemplandum propius accedam; nem<g ref="char:EOLhyphen"/>pe planè perſpicio me ejus eſſe naturae, ut ſine quavis aſſignabili cogitatione exiſtere poſſim, nullaque dari poſſit ſine quâ non extiterim vel exiſtam; unde ſequitur me ab iſtis cogitationibus non dependere, <hi>h. e.</hi> me cujuſvis cogitationis vacuum poſte tamen exiſtere.</p>
+               <p n="5">V. Verum ubi penſiculatiùs mecum ipſe reputo, quidnam mihi perſuadeat me poſſe exiſtere abſque cogitatione quâvis datâ, facile adverto eam opinionem ex eo naſci, quod non poſſim non aſſentiri effato iſti univerſaliter vero, <hi>id quod non dependet ab alio, exiſtere poſse abſque illo alio:</hi> Quod tam verum eſt, ut terminis ſemel intellectis, non poſſit ab ullo negari, tamque egregii in Philoſophiâ uſûs eſt, ut ab eo plurima hactenus obſcura lucem poſſint foenerari.</p>
+               <p n="6">
+                  <hi>VI.</hi> Nam ex hoc principio deducitur, <hi>id quod à nullo alio dependet abſque omni alio ex<g ref="char:EOLhyphen"/>istere poſse</hi>; &amp; cum id quod à nullo dependet quoad ſuam exiſtentiam, omni tempore aequales exiſtendi cauſas habuerit, <hi>h. e.</hi> nunquam extra ſe ullas, oportet ut ſemper ex<g ref="char:EOLhyphen"/>titerit, exiſtatque; inveniendum itaque eſt <hi>an tale aliquid detur, quod à nullo dependeat?</hi> nempe facile advertimus impoſſibile eſſe ut entia omnia non exiſtant: ideoque diſpici<g ref="char:EOLhyphen"/>endum eſt an impoſſibilitatis hujus fundamentum, ſeu <hi>vis haec infinita annihilationi re<g ref="char:EOLhyphen"/>ſistendi,</hi> conveniat unicuique, an potius uni tantum enti.</p>
+               <p n="7">
+                  <hi>VII.</hi> Eſtque manifeſtum eam uni tantum rei inſitam eſſe: Nam cum id quod ab alio non dependet poſſit exiſtere ſine illo exiſtente, id eſt, poſſit exiſtere eo tempore quo il<g ref="char:EOLhyphen"/>lud aliud non exiſtit, ſequitur id quod pendet ab alio poſſe aliquando non exiſtere: quia autem <hi>diſtincta</hi> ejus ſunt naturae ut eorum duo non poſſunt à ſe mutuo pendere, ſequitur <hi>distinctorum</hi> alterum poſſe non exiſtere; quod cum de ſummâ rerum <hi>diſtinctarum,</hi> unâ exceptâ (non enim poſſunt res omnes deficere) verum ſit, patet impoſſibilitatem non exiſtendi, ſeu vim infinitam reſiſtendi annihilationi, ſive <hi>Independentiam</hi> ab omni alio, rei cuidam ab omni alio diſtinctae convenire.</p>
+               <p>Aſſumpſimus, <hi>ea qua ſunt diſtincta non eſſe à ſe mutuo dependentia</hi>; hoc eſt A. non de<g ref="char:EOLhyphen"/>pendere à <hi>B.</hi> &amp; B. ab A, hoc ex eo oſtenditur, quod datâ rei exiſtentiâ, detur exiſtentia ejus à quâ illa dependet, <hi>Ergo</hi> ſi ut A. dependet à B. ita B. dependeat ab A, ex datâ ex<g ref="char:EOLhyphen"/>iſtentiâ <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+A. dabitur exiſtentia <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+B, &amp; ex datâ <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+B, dabitur exiſtentia <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+A; erunt<g ref="char:EOLhyphen"/>que adeo A &amp; B. res una, ſeu erunt Metaphyſicè aequales, hoc enim fundamentum eſt methodi rectè utendi ratione. Ex hiſce concludimus.</p>
+               <p n="1">1<hi rend="sup">mo</hi> non poſſe dari plures res independentes, ac proinde cum plures mei ſimiles ſint, me non eſſe independentem ſeu <hi>Deum.</hi>
+               </p>
+               <p n="2">2<hi rend="sup">do</hi> Corpus, ſive rem ex partibus conflatam, non eſſe rem independentem; tum enim plura forent independentia quam unum.</p>
+               <p n="3">3<hi rend="sup">tio</hi> Res omnes, unâ exceptâ, fuiſſe productas; illa dicatur <hi>Creator</hi>; hae <hi>Creaturae.</hi>
+               </p>
+               <p n="4">4<hi rend="sup">to</hi> 
+                  <hi>Vim independentiae</hi> &amp; omnium rerum productivam, ſeu Omnipotentiam, pro eadem eſſe habendam.</p>
+               <p n="8">VIII. Ex poſitis &amp; demonſtratis inferre tutò poſſumus, vim independentiae eſſe ſimpli<g ref="char:EOLhyphen"/>cem &amp; rei ſimplici ſolum convenire, adeoque <hi>Deum</hi> non eſſe corporeum: Et quod uſum non exiguum in Philoſophiâ habeat, vim dependentiae nullam habere rationem ad vim independentiae primam illam <hi>Creatoris</hi> proprietatem, è quâ nos omnes alias ejus proprietates colligimus: Nam cum vis independentiae neceſſariò ſit unica, patet vim dependentiae non poſſe eòuſque elevari, ut aequet vel excedat vim independentiae, adeoque vires haſce non eſſe homogeneas, &amp; idcirco nullam inter ſe habere rationem; &amp; cum vis rerum omnium productiva ſit vis independentiae, patet nullam creaturam poſſe ſeipſam producere; Qua<g ref="char:EOLhyphen"/>re Impiiſunt Jeſuitae, quique cum his faciunt Semi-proteſtantes aliquot, qui Creaturas ſui productivas eſſe poſſe affirmant, docentque dari poſſe creaturas quae creare alias poſsint idque in genere cauſae efficientis principalis.</p>
+               <p n="9">IX. Porro evidens eſt vim independentiae ſeu Omnipotentiam, influxu vel impreſſu ſuo nihil amittere; vis enim quae ex eo impreſſu oritur eſt ſemper vis dependentiae, quae ad vim independentiae nullam habet <hi>Rationem</hi>; eſtque adeo vis diverſi generis, ut nihil viri<g ref="char:EOLhyphen"/>um producentium retineat, quibus idcirco nihil in producendo decedere potuit. Hinc ſequitur creaturas neque creare poſſe, neque perfectiſſimas evadere, ſecus aliquid virium independentiae ſeu producentium retinerent, adeoque viribus independentiae aliquid dece<g ref="char:EOLhyphen"/>deret, poſſetque divina Omnipotentia exhauriri, quod eſt impoſſibile; &amp; facile eſt intel<g ref="char:EOLhyphen"/>lectu quod genus hominum demonſtrationibus hiſce impietatis arguatur.</p>
+               <p n="10">X. Ex poſitis etiam concludimus, nullam eſſe <hi>Rationem</hi> inter mentem noſtram, men<g ref="char:EOLhyphen"/>tiſque cogitationes, cum mens ad eas ſe habeat, ut ſe habet vis independentiae ad vim de<g ref="char:EOLhyphen"/>pendentiae; adeoque mens non eſt actualis cogitatio, cum identitas ſit ratio.</p>
+               <p n="11">XI. Concludimus quoque, nulla Accidentia ſubſiſtere independenter ab eo, cujus ſup<g ref="char:EOLhyphen"/>ponuntur eſſe accidentia; cum vis dependentiae nullâ elevatione, nulloque incremento, fieri poſſit vis independentiae: Unde refelluntur Jeſuitae, omneſque Pontificii &amp; ſpurii ali<g ref="char:EOLhyphen"/>quot Proteſtantes qui docent accidenti non convenire <hi>actualem inharentiam</hi> ut fidem faci<g ref="char:EOLhyphen"/>ant incredibili <hi>Tranſubſtantiationis</hi> portento.</p>
+               <p n="12">XII. Verum ut hanc ſpeculationem, de viribus independentiae cum viribus dependen<g ref="char:EOLhyphen"/>tiae collatis, abſolvamus; operae-pretium fuerit adnotare, quod licet unica ſit vis abſolu<g ref="char:EOLhyphen"/>ta independentiae, tamen plures ſunt vires relativae independentiae: Nempe vis relativa independentiae ineſt &amp; <hi>Menti</hi> noſtrae &amp; <hi>Corpori</hi>; Illi reſpectu cogitationum ſuarum, huic reſpectu Motuum: Animadverſione tamen eſt digniſſimum, quod id quod vi ſuae conditionis dependet ab <hi>A,</hi> non poteſt dependere a <hi>B,</hi> poſito quod <hi>A</hi> &amp; <hi>B</hi> ſint diſtincta adeoque talia ut eorum unum poſſit eſſe abſque altero: Nam cum habeat, ex Hypotheſi vim dependentiae reſpectu <hi>A,</hi> ſi fingamus id ipſum dependere hoc inſtanti ſolum a <hi>B,</hi> jam exiſtit vel exiſtere poteſt abſque iſto A, adeoque non habet vim dependentiae ejus re<g ref="char:EOLhyphen"/>ſpectu, contra Hypotheſin: Unde ſequitur non poſſe attribui Creaturis <hi>Potentiam illam Obedientialem</hi> quae à <hi>Jeſuitis</hi> conficta eſt, ut Terram Coelo poſſint miſcere.</p>
+               <p n="13">XIII. Supereſte videtur ut Relationem Mentis noſtrae ad corpora oſtendamus, quod utaccu<g ref="char:EOLhyphen"/>ratè fiat, dicendum eſt quid nos <hi>Corporis</hi> nomine denotari velimus &amp; poſtulemus: Nempe ad<g ref="char:EOLhyphen"/>vertimus Materiam, ſive rem ſolidam &amp; partes impenetrabiles habentem, nonſemper extitiſſe, ſed à <hi>DEO</hi> productam eſſe &amp; dependentem; Rem iſtam corporis nomine indigitamus, ejus partes impenetrabiles eſſe ſic oſtendimus: Nam ſi corporis Bipedalis partes duae pedales fin<g ref="char:EOLhyphen"/>gantur ſe mutuò penetrare, erit corpus Bipedale ex Hypotheſi &amp; non Bipedale, ſed Pedale, quia tantum Pedali aequale. Unde refelluntur qui corporum <hi>Penetrabilitatem</hi> Orbi intule<g ref="char:EOLhyphen"/>runt, &amp; corporum multilocationem adſtruere ſunt nequicquam conati; ſic enim corpus pedale Bilocatum eſſet Pedale ex Hypotheſi &amp; Bipedale, quià Pedalibus duobus aequale.</p>
+               <p n="14">XIV. Ex hiſce etiam refellitur dogma <hi>Zenonis</hi> puncta indiviſibilia aſtruentis; quippe quae partibus carent ſe mutuò facile poſſunt penetrare, cum ſi ſemel contigua fiant, neu<g ref="char:EOLhyphen"/>trius pars ulla extra ullam alterius partem conſiſtit. At licet facile advertam partes ſolidi ſe mutuo penetrare non poſſe, tamen eâdem operâ adverto me corporis iſtius, de quo cogito, partes acie mentis meae penetrare, adeoque me corpori iſti eſſe intimum, ſeu me partibus carere, neque quidquam ſolidi &amp; impenetrabilis habere; ac proinde mentem non eſſe corpus exile, ut Impii quidam aſſerunt.</p>
+               <p n="15">XV. Quamvis ergo ea omnia penetrem de quibus cogito, tamen obſervo me multa &amp; vidiſſe, &amp; audiviſſe, aliiſque viis percepiſſe, eaque ſemper eodem ritu, &amp; per actionem vel paſſionem cujuſdam corporis determinati ad animum &amp; cogitationem meam delata fu<g ref="char:EOLhyphen"/>iſſe, de quo corpore, ejuſve ſive actione, ſive paſſione, nunquam non, ſaltem vigilans, cogi<g ref="char:EOLhyphen"/>tare ſum aſſuetus, &amp; idcirco corpus illud meum appello, meque ei unitum eſſe pronuncio.</p>
+               <p n="16">XVI. Ex antedictis facile infertur corporis, quamvis minimi poſſibilis ſine ſine diviſio, quae res Philoſophaſtris quibuſdam adeo incredibilis eſt viſa, ut corpora ex rebus indivi<g ref="char:EOLhyphen"/>ſibilibus componi, Geometriâ &amp; Naturâ reclamantibus docuerint: quorum hominum ſententiae demonſtrationibus ſuffulti refragari tenemur.</p>
+               <p n="17">XVII. Quia autem corpus eſt ab omni parte in infinitum diviſibile, idcirco vere exi<g ref="char:EOLhyphen"/>ſtunt lineae &amp; ſuperficies eo ſenſu quo à Geometris uſurpantur &amp; adhibentur, cum à quo<g ref="char:EOLhyphen"/>cunque corpore eae omnes partes abradi poſſint, quae Rectitudinem, vel Planitiem Geo<g ref="char:EOLhyphen"/>metricis uſibus inſervientem, ullâ ratione videntur impedire.</p>
+               <p n="18">XVIII. Ex his conſequitur longè falli eos qui affirmant. 1<hi rend="sup">o</hi>. Objectum Matheſeos non exiſtere neque eſſe <hi>ens reale.</hi> 2<hi rend="sup">o</hi>. Ea quae ſunt Mathematicè diviſibilia non eſſe di<g ref="char:EOLhyphen"/>viſibilia realiter. 3. Diagonalem Quadrati non eſſe realiter &amp; Phyſicè majorem latere, ſic enim quae diſtant plus quam quinque pedes cum dimidio, non diſtarent niſi quatuor pedes.</p>
+               <p n="19">XIX. Diviſibilitas corporis mobilitatem partium ejus infert; motus vero nobis eſt, <hi>Mutatio diſtantiae corporis ab aliquo trium punctorum non in directum jacentium:</hi> Nec differt haec Motûs definitio à <hi>Carteſianâ,</hi> niſi quod loco omnium corporum ambientium in <hi>Car<g ref="char:EOLhyphen"/>teſianâ</hi> adductorum, tria ſolum ad Motum determinandum ſufficientia aſſumuntur.</p>
+               <p n="20">XX. Motus alius eſt <hi>Abſolutus,</hi> alius <hi>Relativus</hi>; hujus effectus ſunt nulli, Phaenome<g ref="char:EOLhyphen"/>na quam plurima; Illius vero effectus ſunt Impulſus in corpora Objecta, &amp; vires receden<g ref="char:EOLhyphen"/>di ab axe Motûs circularis: Relativum autem ab Abſoluto diſtinguere magnam Philoſo<g ref="char:EOLhyphen"/>phiae Naturalis partem conſtituit.</p>
+               <p n="21">XXI. Corporum ſe mutuò moventium Leges hae ſunt generales. 1. <hi>Corpus omne perſeverare in ſtatu ſuo quieſcendi, vel movendi uniformiter in directum, niſi quatenus à vi impreſsâ cogitur eum mu<g ref="char:EOLhyphen"/>tare.</hi> 2. <hi>Mutationem Motus eſse proportionalem vi impreſſa, &amp; fieri ſecundum lineam rectam quâ vis illa imprimitur.</hi> 3. <hi>Actioni corporis in corpus aqualem ſemper eſſe reactionem, eamque in contrariam partem dirigi.</hi>
+               </p>
+               <p n="22">XXII. Ex hiſce pauciſſimis facile inveniuntur omnes leges Motûs in quocunque genere cor<g ref="char:EOLhyphen"/>porum à Recentioribus demonſtratae: Unde redarguntur imperitiae impudentiſsimae qui aſ<g ref="char:EOLhyphen"/>erunt actiones Phyſicas non eſſe Geometricè expendendas: eodem Jure aſſerere potuiſſent veritatem in Philoſophiâ Naturali non debere methodo rectâ &amp; accuratâ inveſtigari.</p>
+               <p n="23">
+                  <hi>XXIII.</hi> Denique ex hiſce conſideratis, praeſertim Lege tertiâ, invenitur vires corpo<g ref="char:EOLhyphen"/>rum imprimentes ad impreſſas non eſſe ut vires independentiae ad vires dependentiae; cum Imprimentes <hi>Rationem</hi> habeant ad impreſſas, &amp; ad impreſſum &amp; ictum minuantur, vel ali<g ref="char:EOLhyphen"/>quando prorſus tollantur: Quod iis quae ſe habent ut vires independentiae &amp; dependentiae non poteſt evenire. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgi,</hi> Excudebat Haeres <hi>Andrea Anderſon,</hi> Regum, Usbis, &amp; Academiae Typographus: <hi>Anno DOM.</hi> 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
